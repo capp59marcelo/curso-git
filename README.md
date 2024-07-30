@@ -6,6 +6,3 @@
 3 terceiro comite do projeto
 abacate
 abacate
-if(mockAtivado == true){
-    blablabal
-}
